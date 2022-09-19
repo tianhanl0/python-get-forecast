@@ -1,5 +1,6 @@
 # INSTRUCTIONS
 
+* Fork this repository.
 * Implement the method `get_forecast` in `script.py`.
 * Make the neccesary changes to `script.py` so that is passes validation by `pycodestyle`. See the results of `pretty.yml` to verify it ran properly (or wait for the banner to turn green).
 * Replace the username `CMU-MS-DAS-Modern-Programming-Mini` with your username on the lines
